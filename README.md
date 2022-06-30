@@ -44,6 +44,8 @@ BurningJulia :
 
 [Blog for MinilibX](https://aurelienbrabant.fr/blog)
 
+[Doc for MLX](https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html)
+
 [Arithmetic With Complex Numbers](https://betterexplained.com/articles/intuitive-arithmetic-with-complex-numbers/)
 
 [Mandelbrot equation](https://en.wikipedia.org/wiki/Mandelbrot_set)
