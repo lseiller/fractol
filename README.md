@@ -34,7 +34,11 @@ BurningJulia :
 
 ## Image
 
-!(imgs/img4.png)
+![data](imgs/img3.png)
+
+![data](imgs/img17.png)
+
+![data](imgs/img32.png)
 
 ## Ressource I use :
 
