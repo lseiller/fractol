@@ -7,7 +7,7 @@ This is the fract-ol project of 42 school. (Also the best project at 42)
 ## How-to-compile
 First download the code :
 ```
-git clone git@github.com:Akiroto/fractol.git
+git clone git@github.com:lseiller/fractol.git
 ```
 Then go inside and compile :
 ```
